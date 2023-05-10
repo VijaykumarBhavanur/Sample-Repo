@@ -1,2 +1,1 @@
-echo "Welcome to GitHub"
 echo "We are learning basic git push operation"
